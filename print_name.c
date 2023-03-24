@@ -9,5 +9,6 @@ int main(void)
 	{
 		printf("%s\n", names[i]);
 	}
+        /* Olorundamisi's Edit */
 	return (0);
 }
